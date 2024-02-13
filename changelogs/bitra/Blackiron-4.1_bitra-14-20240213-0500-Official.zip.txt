@@ -1,0 +1,25 @@
+- Initial zorok realese with upstream to 4.19.306
+- Added dolby
+- Added oplus cam
+- Removed touchgestures in Devicextras(already present in Blackironsettings
+- Audio: Enable building ssrec for Audio Externals
+- Optimize native executables for Cortex-A76 CPU
+- Correct Hotword paths
+- Force device to treat 170M as sRGB in SF
+- miscs improvements
+
+———/ Flashing Guide /——— - Prerequisite Unlocked Boot-loader With Custom Recovery - Data 
+Format Is required When Mentioned
+# Flashing Steps
+- Flash Latest F14 Firmware of your Region (Mandatory !!!!) 
+- Flash ROM zip 
+- Now Format DATA and Reboot 
+- Flash Magisk Delta (Optional) (Recommended To Flash After Boot) 
+- If Play Integrity Fails Use Magisk Module
+# WARNING AND BUGS
+- To Improve Audio Quality Use ViperFX App
+- Report Any Bugs with log if possible
+
+
+Credits:
+Bl4ckpeter for his tree and kenel base 

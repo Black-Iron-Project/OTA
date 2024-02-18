@@ -1,0 +1,12 @@
+HOTFIX for audio issue
+
+
+#KERNEL
+REBASED ON PULVIS
+- power: smb5: Properly opt-out from s/w based health reporting 
+- power: fg-alg: support maximum limit for capacity learning 
+- kernel: fork: Reduce boost to 50ms
+- defconfig: Build QCRNDIS driver 
+- defconfig: Disable EDAC 
+- msm_geni_serial: skip flushing tx upon shutdown
+- other miscs changes 

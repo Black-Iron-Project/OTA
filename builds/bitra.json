@@ -1,14 +1,14 @@
 {
 	"error":false,
-	"filename":"Blackiron-4.1_bitra-14-20240218-0819-Official.zip",
-	"datetime":,
-	"size":2654546566,
-	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/bitra\/Blackiron-4.1_bitra-14-20240218-0819-Official.zip\/download",
-	"filehash":"561cf5f6c4bbd5b779b5cd3798a9a8c6",
-	"version":"",
+	"filename":"Blackiron-4.1_bitra-14-20240218-1601-Official.zip",
+	"datetime":1708271984,
+	"size":2654559511,
+	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/bitra\/Blackiron-4.1_bitra-14-20240218-1601-Official.zip\/download",
+	"filehash":"816b5b31f62194a99eb83ed5b8c31511",
+	"version":"14",
 	"status":"Active",
-	"blkiv":"",
-	"id":"cae9860629cc328afdde9a74ff7587c47a1ac9a93aa326a5e56b381eec151cf3",
+	"blkiv":"4.1",
+	"id":"9f8aa2638d87b51e62210315df1098e6dd08b1975f2a1a5380d96d53aa2a40a8",
 	"tg_username":"Badrt98",
 	"device_name":"Realme GT Neo2",
 	"device":"bitra",
@@ -21,5 +21,29 @@
 	"donate_url":"http:\/\/www.paypal.me\/ralf979",
 	"website_url":"https:\/\/lol.lol\/",
 	"news_url":"https:\/\/t.me\/BlkiUpdate",
-	"forum_url":"https:\/\/xdaforums.com\/f\/realme-gt-neo-2.12475\/?prefix_id=33"
+	"forum_url":"https:\/\/xdaforums.com\/f\/realme-gt-neo-2.12475\/"
+}{
+	"error":false,
+	"filename":"@zoroprojects",
+	"datetime":,
+	"size":,
+	"url":"",
+	"filehash":"",
+	"version":"",
+	"status":"",
+	"blkiv":"",
+	"id":"",
+	"tg_username":"",
+	"device_name":"",
+	"device":"",
+	"xda_thread":"",
+	"maintainers": [{
+		"main_maintainer":false,
+		"github_username":"",
+		"name":""
+	}],
+	"donate_url":"",
+	"website_url":"",
+	"news_url":"",
+	"forum_url":""
 }

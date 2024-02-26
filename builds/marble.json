@@ -1,13 +1,13 @@
 {
 	"error":false,
 	"filename":"Blackiron-4.1_marble-14-20240225-1418-Official.zip",
-	"datetime":,
+	"datetime":20240225,
 	"size":1993348007,
 	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/marble\/Blackiron-4.1_marble-14-20240225-1418-Official.zip\/download",
 	"filehash":"bff1ace4cac699cad8dec0d71f49791d",
-	"version":"",
+	"version":"14",
 	"status":"Active",
-	"blkiv":"",
+	"blkiv":"4.1",
 	"id":"57a21d78b9f9921e183222ae3876238d4f6db86b340aec222f0c01015d8c9847",
 	"tg_username":"JYR_RC",
 	"device_name":"Poco F5",
@@ -22,4 +22,28 @@
 	"website_url":"https:\/\/lol.lol\/",
 	"news_url":"https:\/\/t.me\/BlkiUpdate",
 	"forum_url":"https:\/\/xdaforums.com\/t\/rom-official-black-iron-rom-v4-1-stable-android-14-0-marble-poco-f5-redmi-note-12-turbo.4655022\/"
+}{
+	"error":false,
+	"filename":"https:\/\/t.me\/JYR_RC_Builds_Marble",
+	"datetime":,
+	"size":,
+	"url":"",
+	"filehash":"",
+	"version":"",
+	"status":"",
+	"blkiv":"",
+	"id":"",
+	"tg_username":"",
+	"device_name":"",
+	"device":"",
+	"xda_thread":"",
+	"maintainers": [{
+		"main_maintainer":false,
+		"github_username":"",
+		"name":""
+	}],
+	"donate_url":"",
+	"website_url":"",
+	"news_url":"",
+	"forum_url":""
 }

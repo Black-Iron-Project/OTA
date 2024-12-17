@@ -1,0 +1,14 @@
+Changelog - 15// V5.1 17/12/2024
+
+• Initial Build A15
+
+
+FLASH INSTRUCTION
+
+• Reboot Into TWRP/ofox Recovery
+• Flash fw latest
+• Flash Rom.zip
+• Falsh Gapps ( Recomenden NikGapps )
+• Format Data
+• Reboot
+• Done

@@ -1,0 +1,26 @@
+{
+	"error":false,
+	"filename":"Blackiron-5.1_sweet-15-20241217-0346-GAPPS-Official.zip",
+	"datetime":0411,
+	"size":2055262816,
+	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/sweet\/Blackiron-5.1_sweet-15-20241217-0346-GAPPS-Official.zip\/download",
+	"filehash":"9835951690a7c17866e11e51ce635036",
+	"version":"15",
+	"status":"Active",
+	"blkiv":"5.1_sweet",
+	"id":"ed2b650bd87d4cd1f33d63f0462f3a2f5d037e184c0d1b5c450d6d26560a0aa1",
+	"tg_username":"Djampt",
+	"device_name":"Redmi Note 10 Pro",
+	"device":"sweet",
+	"device_group":"@dampt_cox",
+	"xda_thread":"-",
+	"maintainers": [{
+		"main_maintainer":false,
+		"github_username":"unsatifsed27",
+		"name":"unsatifsed27"
+	}],
+	"donate_url":"http:\/\/www.paypal.me\/ralf979",
+	"website_url":"https:\/\/lol.lol\/",
+	"news_url":"https:\/\/t.me\/BlkiUpdate",
+	"forum_url":"-"
+}

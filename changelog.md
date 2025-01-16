@@ -1,6 +1,15 @@
 # Blk-Iron_Features
 
-# V5.1 (07/12	/2024)
+# V5.2 (16/01/2024)
+
+ - January 2025 Security patch
+ - rebase source for QPR1 changes
+ - added disable Private DNS for VPN
+ - added option to cycle through ringer modes
+ - dropped island notifications
+ - added double tap to trigger doze
+
+# V5.1 (07/12/2024)
 
  - fixed search bar in settings
  - added deep sleep controller

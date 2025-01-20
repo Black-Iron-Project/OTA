@@ -1,3 +1,8 @@
+Changelog - 20/01/2025
+
+ - fix gestures settings crash
+
+
 Changelog - 19/01/2025
 
  ------- Clean flash is mandatory for this build -------

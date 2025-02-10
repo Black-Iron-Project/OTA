@@ -1,6 +1,14 @@
 # Blk-Iron_Features
 
-# V5.2 (16/01/2024)
+# V5.2 (10/02/2025)
+
+ - February 2025 Security patch
+ - Re-Added Spoofing section
+ - added automated Sleep Mode
+ - ... small improvement
+
+
+# V5.2 (16/01/2025)
 
  - January 2025 Security patch
  - rebase source for QPR1 changes

@@ -1,0 +1,26 @@
+Changelog - 10/02/2025
+
+ - February 2025 Security Patch
+ - Fixed Screen off UDFPS
+ - Fixed single tap & double tap to wake
+ - Fixed boring vibration
+ - Update to lask AOSPA 
+ - misc changes and optimizations (see https://github.com/Black-Iron-Project/device_xiaomi_sm8550-common/commits/v15/ )
+ 
+ FLASH INSTRUCTIONS:
+
+🚦 Before flashing any rom, make a backup of your data! 🚥
+
+Pre-requisites :
+- Brain and ability to READ !
+- Gapps included so no need to flash/sideload GApps
+- Use your region's latest HyperOS 1 firmware
+- UPDATE TO LATEST FASTBOOT DRIVER
+
+Clean Flash Guide 1:
+
+- Open Terminal and Reboot to Bootloader (orange Fastboot)  —> adb reboot bootloader (or press Power + Vol -) 
+- Format Data —>  fastboot -w 
+- Flash Rom —> fastboot update "romfile.zip" (replace romfile.zip to name of dowloaded rom)
+
+enjoy!!

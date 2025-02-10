@@ -4,7 +4,7 @@ Changelog - 10/02/2025
  - Fixed Screen off UDFPS
  - Fixed single tap & double tap to wake
  - Fixed boring vibration
- - Update to lask AOSPA 
+ - Update to lask @Offain Kernel 
  - misc changes and optimizations (see https://github.com/Black-Iron-Project/device_xiaomi_sm8550-common/commits/v15/ )
  
  FLASH INSTRUCTIONS:

@@ -1,26 +1,26 @@
 {
 	"error":false,
-	"filename":"Blackiron-4.3_bitra-14-20240425-1355-Official.zip",
-	"datetime":20240425,
-	"size":2545169660,
-	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/bitra\/Blackiron-4.3_bitra-14-20240425-1355-Official.zip\/download",
-	"filehash":"1415110c8628f9a7464f6805cce3eae0",
-	"version":"14",
+	"filename":"Blackiron-5.3_bitra-15-20250212-0401-CORE-OFFICIAL.zip",
+	"datetime":0357,
+	"size":2650154315,
+	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/bitra\/Blackiron-5.3_bitra-15-20250212-0401-CORE-OFFICIAL.zip\/download",
+	"filehash":"54212e895643fdd413ff5fa125cca915",
+	"version":"15",
 	"status":"Active",
-	"blkiv":"4.3",
-	"id":"f0358c58a9d1a5e7f210d87cab4952ce643d0cafc64686906ea7a0db5e1c19f9",
+	"blkiv":"5.3_bitra",
+	"id":"7b632d13dd3b046250307401ec559e68f9ab033f2a735583e982c27ddcd25bd6",
 	"tg_username":"Badr98t",
-	"device_name":"Realme GT Neo2",
+	"device_name":"Realme GT Neo 2",
 	"device":"bitra",
 	"device_group":"@zoroprojects",
-	"xda_thread":"https:\/\/xdaforums.com\/f\/realme-gt-neo-2.12475\/",
+	"xda_thread":"https:\/\/xdaforums.com\/t\/black-iron-project-for-realme-gt-neo-2.4718263\/",
 	"maintainers": [{
 		"main_maintainer":false,
-		"github_username":"Badr98-t",
-		"name":"Badr"
+		"github_username":"XXBADRGXX",
+		"name":"badr"
 	}],
 	"donate_url":"http:\/\/www.paypal.me\/ralf979",
 	"website_url":"https:\/\/lol.lol\/",
 	"news_url":"https:\/\/t.me\/BlkiUpdate",
-	"forum_url":"https:\/\/xdaforums.com\/f\/realme-gt-neo-2.12475\/"
+	"forum_url":"https:\/\/xdaforums.com\/t\/black-iron-project-for-realme-gt-neo-2.4718263\/"
 }

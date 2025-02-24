@@ -1,5 +1,22 @@
 # Blk-Iron_Features
 
+# V5.4 (24/02/2025)
+
+ - Fixed Shit tiles actions
+ - Drop all Blackiron Settings drawable
+ - Extend protect sensitive info to MAC 
+ - Optional wind info & humidity on lockscreen
+ - Switch for compact HUN
+ - Support for hide applist
+ - Re-added Lockscreen Medi Art features
+ - Wallpaper Style & Depth
+ - Compact Media player mode
+ - Re-Added Monet customizations
+ - QS Header Clock styles
+ - Percentage view to brightness slider
+ - QS Widgets
+ - Re-Added island notifications
+
 # V5.3 (10/02/2025)
 
  - February 2025 Security patch

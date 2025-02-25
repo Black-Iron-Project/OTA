@@ -1,0 +1,26 @@
+Changelog - 25/02/2025
+
+ - Fix audio bluetooth
+ 
+ FLASH INSTRUCTIONS:
+
+🚦 Before flashing any rom, make a backup of your data! 🚥
+
+Pre-requisites :
+- Brain and ability to READ !
+- Gapps included so no need to flash/sideload GApps
+- Use your region's latest HyperOS 1 firmware
+- UPDATE TO LATEST FASTBOOT DRIVER
+
+Clean Flash Guide:
+
+- Open Terminal and Reboot to Bootloader (orange Fastboot)  —> adb reboot bootloader (or press Power + Vol -) 
+- Format Data —>  fastboot -w 
+- Flash Rom —> fastboot update "romfile.zip" (replace romfile.zip to name of dowloaded rom)
+
+Dirty Flash Guide:
+
+- Open Terminal and Reboot to Bootloader (orange Fastboot)  —> adb reboot bootloader (or press Power + Vol -) 
+- Flash Rom —> fastboot update "romfile.zip" (replace romfile.zip to name of dowloaded rom)
+
+enjoy!!

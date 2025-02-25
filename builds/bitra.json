@@ -1,16 +1,22 @@
 {
 	"error":false,
-	"filename":"Blackiron-5.3_bitra-15-20250212-0401-CORE-OFFICIAL.zip",
-	"datetime":0357,
-	"size":2650154315,
-	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/bitra\/Blackiron-5.3_bitra-15-20250212-0401-CORE-OFFICIAL.zip\/download",
-	"filehash":"54212e895643fdd413ff5fa125cca915",
+	"filename":"Blackiron-5.4_bitra-15-20250225-1133-GAPPS-OFFICIAL-ota.zip
+Blackiron-5.4_bitra-15-20250225-1133-GAPPS-OFFICIAL.zip",
+	"datetime":1129,
+	"size":2654172182
+2654172182
+5308344364,
+	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/bitra\/Blackiron-5.4_bitra-15-20250225-1133-GAPPS-OFFICIAL-ota.zip
+Blackiron-5.4_bitra-15-20250225-1133-GAPPS-OFFICIAL.zip\/download",
+	"filehash":"8fef486e06a95cfae9cd6192bf71c433
+8fef486e06a95cfae9cd6192bf71c433",
 	"version":"15",
 	"status":"Active",
-	"blkiv":"5.3_bitra",
-	"id":"7b632d13dd3b046250307401ec559e68f9ab033f2a735583e982c27ddcd25bd6",
-	"tg_username":"Badr98t",
-	"device_name":"Realme GT Neo 2",
+	"blkiv":"5.4_bitra",
+	"id":"1e6ea79cafcdae8a3e936023a9f3c095ae4bd032d27b5271b2e4ea8eebfa0f9b
+1e6ea79cafcdae8a3e936023a9f3c095ae4bd032d27b5271b2e4ea8eebfa0f9b",
+	"tg_username":"badr98t",
+	"device_name":"Realme GT Neo2 ",
 	"device":"bitra",
 	"device_group":"@zoroprojects",
 	"xda_thread":"https:\/\/xdaforums.com\/t\/black-iron-project-for-realme-gt-neo-2.4718263\/",

@@ -1,0 +1,24 @@
+- init: Disable QCOM system daemon
+- Enable support for IEEE80211AX
+- drop livedisplay
+
+
+Notes:
+▪️TWRP OR ORANGEFOX( latest required).
+▪️Required Firmware - Ex1000 f20 . 
+▪️Clean flash recommended.
+▪️Dirty flash supported same rom.
+▪️If you are coming from another rom format data mandatory.
+▪️ Gapps build
+▪️OSS based
+▪️SELinux: Enforcing
+
+Credits:
+@Bl4ckpeter For Trees
+
+HOW DO I FLASH
+Install TWRP, flash the rom, format data if you came from stock or from other rom
+
+Which firmware
+
+Ex1000 f20

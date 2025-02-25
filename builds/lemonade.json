@@ -1,19 +1,19 @@
 {
 	"error":false,
-	"filename":"Blackiron-5.3_lemonade-15-20250209-2014-GAPPS-Official-fastboot.zip",
-	"datetime":2011,
-	"size":2573452933,
-	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/lemonade\/Blackiron-5.3_lemonade-15-20250209-2014-GAPPS-Official-fastboot.zip\/download",
-	"filehash":"3fbbd491fc71885a7a357c6a3f911fa1",
+	"filename":"Blackiron-5.4_lemonade-15-20250225-0942-GAPPS-Official-fastboot.zip",
+	"datetime":0939,
+	"size":2577408679,
+	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/lemonade\/Blackiron-5.4_lemonade-15-20250225-0942-GAPPS-Official-fastboot.zip\/download",
+	"filehash":"c413a1eb03c7067ed51b34be920e99e7",
 	"version":"15",
 	"status":"Active",
-	"blkiv":"5.3_lemonade",
-	"id":"f39862813858c684ab8d2e26ab373c22c13239f3cc50d31e0f19e4910ee94231",
+	"blkiv":"5.4_lemonade",
+	"id":"c0a5978c37516ed81d8f201de1a18bbc4ce0794d4aa25977a8f153f50bb1396b",
 	"tg_username":"ralf979",
-	"device_name":"OnePlus 9",
+	"device_name":"Oneplus 9",
 	"device":"lemonade",
 	"device_group":"t.me\/BLKI_lemonade_p",
-	"xda_thread":"https:\/\/xdaforums.com\/t\/rom-official-ksu-op9-black-iron-rom-v5-1-android-15-lemonade.4594469\/",
+	"xda_thread":"https:\/\/xdaforums.com\/t\/rom-official-ksu-op9-black-iron-rom-v5-3-android-15-lemonade.4594469\/",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"ralf979",
@@ -22,5 +22,5 @@
 	"donate_url":"http:\/\/www.paypal.me\/ralf979",
 	"website_url":"https:\/\/lol.lol\/",
 	"news_url":"https:\/\/t.me\/BlkiUpdate",
-	"forum_url":"https:\/\/xdaforums.com\/t\/rom-official-ksu-op9-black-iron-rom-v5-1-android-15-lemonade.4594469\/"
+	"forum_url":"https:\/\/xdaforums.com\/t\/rom-official-ksu-op9-black-iron-rom-v5-3-android-15-lemonade.4594469\/"
 }

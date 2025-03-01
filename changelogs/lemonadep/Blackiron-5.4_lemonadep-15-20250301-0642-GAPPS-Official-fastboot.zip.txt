@@ -1,0 +1,37 @@
+Changelog - 15.0 // v5.4 01/03/2025
+
+ - Added OOS Camera (Thanks @Ralf979 for doing the testing and fixing the issues)
+   
+   Note1: Requires Google Photos App to view media in Camera App.
+   
+   Note2: For now we have both cameras (Aperture and OOS Cam). 
+          In the next releases Aperture will be removed if OOS camera is stable.
+
+Changelog - 15.0 // v5.4 26/02/2025
+
+ - Switched to McQuaid Kernel r12. (Thanks @TogoFire)
+ - Optimized overall speed and smoothness of device.
+ - Drop pixelworks & switch to OSS HWC.
+ - Lots of fixes & other small improvements.
+ - Added KSU. 
+
+ FLASH INSTRUCTIONS:
+
+🚦 Before flashing any rom, make a backup of your data! 🚥
+
+Pre-requisites :
+ - Brain and ability to READ !
+ - OOS 14 - 14.0.0.730 (EX01) firmware is required ( https://sourceforge.net/projects/black-iron-project/files/lemonadep/Firmware )
+
+NOTES:
+From version 5.3 onwards, the rom package will be of FASTBOOT type. (much safer than sideloading and there is no need to flash the recovery package because it is already all inside)
+
+Clean Flash:
+
+- Reboot to bootloader & connect your phone to PC.
+- Open terminal and format data fastboot -w
+- Flash fastboot packege ROM fastboot update romname.zip (after a few seconds during the flash the device reboots into fastbootD, this is normal, do not touch the device which will continue to flash)
+- At the end of the flash procedure the device restarts automatically.
+
+Rooting:
+1. Install KernelSU Manager. 

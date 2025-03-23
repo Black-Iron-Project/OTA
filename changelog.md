@@ -1,5 +1,14 @@
 # Blk-Iron_Features
 
+# V5.5 (23/03/2025)
+
+ - March 2025 Security patch
+ - Added freeform mode switch
+ - added Reality display engine
+ - update gapps
+ - fixed marck-up for screenshot
+ - ... small improvement
+
 # V5.4 (24/02/2025)
 
  - Fixed Shit tiles actions

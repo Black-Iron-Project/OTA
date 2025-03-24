@@ -1,19 +1,19 @@
 {
 	"error":false,
-	"filename":"Blackiron-5.4_vermeer-15-20250225-1147-GAPPS-Official-fastboot.zip",
-	"datetime":1145,
-	"size":4065626667,
-	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/vermeer\/Blackiron-5.4_vermeer-15-20250225-1147-GAPPS-Official-fastboot.zip\/download",
-	"filehash":"d33aab6e7a41ac0a0aeefa1cd7dfbdc8",
+	"filename":"Blackiron-5.5_vermeer-15-20250324-0853-GAPPS-Official-fastboot.zip",
+	"datetime":0851,
+	"size":4121900773,
+	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/vermeer\/Blackiron-5.5_vermeer-15-20250324-0853-GAPPS-Official-fastboot.zip\/download",
+	"filehash":"4f38983ad4dd93c5ef12d2a72b06e76e",
 	"version":"15",
 	"status":"Active",
-	"blkiv":"5.4_vermeer",
-	"id":"1fde0626e1ae73c7a6676c8a9dcc521df356aac1d74f03c6a1d49f2b29decae5",
+	"blkiv":"5.5_vermeer",
+	"id":"f3fe1551fb87eda25e1789f3df87a22f3a47cb0f71f79f99822684cab854d56b",
 	"tg_username":"ralf979",
 	"device_name":"Poco F6 Pro",
 	"device":"vermeer",
 	"device_group":"t.me\/BLKI_vermeer",
-	"xda_thread":"https:\/\/xdaforums.com\/t\/rom-official-black-iron-rom-v5-4-android-15-poco-f6-pro-redmi-k70-vermeer.4692602\/",
+	"xda_thread":"https:\/\/xdaforums.com\/t\/rom-official-black-iron-rom-v5-5-android-15-poco-f6-pro-redmi-k70-vermeer.4692602\/",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"ralf979",
@@ -22,5 +22,5 @@
 	"donate_url":"http:\/\/www.paypal.me\/ralf979",
 	"website_url":"https:\/\/lol.lol\/",
 	"news_url":"https:\/\/t.me\/BlkiUpdate",
-	"forum_url":"https:\/\/xdaforums.com\/t\/rom-official-black-iron-rom-v5-4-android-15-poco-f6-pro-redmi-k70-vermeer.4692602\/"
+	"forum_url":"https:\/\/xdaforums.com\/t\/rom-official-black-iron-rom-v5-5-android-15-poco-f6-pro-redmi-k70-vermeer.4692602\/"
 }

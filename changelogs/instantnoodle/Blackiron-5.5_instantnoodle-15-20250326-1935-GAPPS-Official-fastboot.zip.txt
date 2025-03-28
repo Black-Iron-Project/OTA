@@ -1,0 +1,27 @@
+Changelog - 15.0 // v5.5 // 28/03/2025
+
+ - Switch to AOSP display color modes.
+ - Fix duplicated auto brightness configs.
+ - Optimized overall speed and smoothness of device.
+ - Other small improvements.
+
+ FLASH INSTRUCTIONS:
+
+🚦 Before flashing any rom, make a backup of your data! 🚥
+
+Pre-requisites :
+ - Brain and ability to READ !
+ - OOS 13 - OOS 13.1.0.590(EX01) firmware is required ( https://sourceforge.net/projects/black-iron-project/files/instantnoodle/Firmware )
+
+NOTES:
+From version 5.3 onwards, the rom package will be of FASTBOOT type. (much safer than sideloading and there is no need to flash the recovery package because it is already all inside)
+
+Clean Flash:
+
+- Reboot to bootloader & connect your phone to PC.
+- Open terminal and format data fastboot -w
+- Flash fastboot package ROM fastboot update romname.zip (after a few seconds during the flash the device reboots into fastbootD, this is normal, do not touch the device which will continue to flash)
+- At the end of the flash procedure the device restarts automatically.
+
+Rooting:
+1. Not supported for now.

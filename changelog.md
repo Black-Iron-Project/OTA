@@ -1,5 +1,12 @@
 # Blk-Iron_Features
 
+# V5.6 (04/04/2025)
+
+ - March 2025 Security patch
+ - QPR2 Merged
+ - Rebase Source for QPR2
+ - Dropped Navigation section on Blackiron Settings
+
 # V5.5 (23/03/2025)
 
  - March 2025 Security patch

@@ -1,0 +1,33 @@
+Changelog - 15.0 // v5.6 04/04/2025
+
+ - Updated to latest changes of McQuaid Kernel.
+ - Builded with A15 QPR2 March patches
+ - Fix duplicated auto brightness configs.
+ - Fixed OOSCam selfie portrait mode. 
+
+  FLASH INSTRUCTIONS:
+
+🚦 Before flashing any rom, make a backup of your data! 🚥
+
+Pre-requisites :
+ - Brain and ability to READ !
+ - OOS 14 - 14.0.0.730(EX01) firmware is required ( https://sourceforge.net/projects/black-iron-project/files/lemonade/Firmware )
+
+NOTES:
+From version 5.3 onwards, the rom package will be of FASTBOOT type. (much safer than sideloading and there is no need to flash the recovery package because it is already all inside)
+
+Clean Flash:
+
+- Reboot to bootloader & connect your phone to PC
+- open terminal and format data fastboot -w
+- Flash fastboot packege ROM fastboot update romname.zip (after a few seconds during the flash the device reboots into fastbootD. this is normal, do not touch the device which will continue to flash)
+- At the end of the flash procedure the device restarts automatically
+
+Dirty Flash:
+
+- Reboot to bootloader & connect your phone to PC
+- Flash fastboot packege ROM fastboot update romname.zip (after a few seconds during the flash the device reboots into fastbootD. this is normal, do not touch the device which will continue to flash)
+- At the end of the flash procedure the device restarts automatically
+
+Rooting:
+1. Download and Install KernelSU manager

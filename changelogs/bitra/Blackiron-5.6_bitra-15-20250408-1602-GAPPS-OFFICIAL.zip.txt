@@ -1,0 +1,73 @@
+
+🔹Set missing RKPD props
+
+🔹Silence some spammy logging
+
+🔹make dex2oat go fast
+
+🔹Enhance audio quality
+
+🔹Remove direct flag for VOIP RX
+
+🔹Implement torch light control
+
+🔹 props: Enable support for kernel idle timer
+
+🔹Introduce Per-app Refresh Rate
+
+🔹Always preopt extracted APKs
+
+🔹Compile system services using speed-profile
+
+🔹Set dex2oat thread count and cpuset Unlike Google, we are also setting this during Setup Wizard to make sure that performance is good during the Out of Box Experience.
+
+🔹Disable FPS capping to 60 for Games on A15
+
+🔹 nl80211: Do not set NL80211_WPA_VERSION_3 (SOURCE)
+
+ZOROK KERNEL 
+
+🔹 techpack: video: msm: vidc: disable decode batching feature
+🔹 msm: msm_bus: Don't enable QoS clocks when none are present
+🔹 mm: Set default page-cluster to 0
+🔹 soc: qcom: scm: Fix scm_call_count when used with LSE atomics
+🔹 sched: tune: Conservative boosting and utilization of CPU cores
+🔹 touchpanel_common_driver: Disable logging
+🔹 power: Enable and hardcode efficient workqueue
+🔹 Bluetooth: Fix Set Extended (Scan Response) Data
+🔹 adreno_tz: Fix GPU target frequency calculation for high refresh rates
+🔹 other miscs changes 
+
+Notes:
+
+▪️TWRP OR ORANGEFOX( latest required).
+
+▪️Required Firmware - Ex1000 f20 . 
+
+▪️Clean flash recommended.
+
+▪️Dirty flash supported same rom.
+
+▪️If you are coming from another rom format data mandatory.
+
+▪️ Gapps build
+
+▪️OSS based
+
+▪️SELinux: Enforcing
+
+
+
+Credits:
+
+@Bl4ckpeter For Trees
+
+
+
+HOW DO I FLASH
+
+Install TWRP, flash the rom, format data if you came from stock or from other rom
+
+Which firmware
+
+Ex1000 f20 or f.18

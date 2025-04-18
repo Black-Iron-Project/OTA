@@ -1,0 +1,33 @@
+Changelog - 17/04/2025
+
+ - Merged April 2025 Security Patch
+ - Merged QPR2
+ - fix Camera for QPR2 (thanks @GioKas93)
+ - fix Nfc for Qpr2 (thanks @GioKas93)
+ 
+ NOTES & Bug
+ - When the system starts, the camera gives a crash error message, you can close it and the camera works perfectly (we will try to fix it later
+ - Slowmotion does not work for now
+ 
+ FLASH INSTRUCTIONS:
+
+🚦 Before flashing any rom, make a backup of your data! 🚥
+
+Pre-requisites :
+- Brain and ability to READ !
+- Gapps included so no need to flash/sideload GApps
+- Use your region's latest HyperOS 1 firmware
+- UPDATE TO LATEST FASTBOOT DRIVER
+
+Clean Flash Guide:
+
+- Open Terminal and Reboot to Bootloader (orange Fastboot)  —> adb reboot bootloader (or press Power + Vol -) 
+- Format Data —>  fastboot -w 
+- Flash Rom —> fastboot update "romfile.zip" (replace romfile.zip to name of dowloaded rom)
+
+Dirty Flash Guide:
+
+- Open Terminal and Reboot to Bootloader (orange Fastboot)  —> adb reboot bootloader (or press Power + Vol -) 
+- Flash Rom —> fastboot update "romfile.zip" (replace romfile.zip to name of dowloaded rom)
+
+enjoy!!

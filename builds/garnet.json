@@ -1,0 +1,26 @@
+{
+	"error":false,
+	"filename":"Blackiron-5.7_garnet-15-20250418-1202-GAPPS-Official.zip",
+	"datetime":1201,
+	"size":2234916371,
+	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/garnet\/Blackiron-5.7_garnet-15-20250418-1202-GAPPS-Official.zip\/download",
+	"filehash":"bdcfd160a49d552a1c04f3076f3e8e96",
+	"version":"15",
+	"status":"Active",
+	"blkiv":"5.7_garnet",
+	"id":"c09c8c6e00be0b40d347d84dcc4b06810fbb90ed571e21f6bdaa24490f1e487e",
+	"tg_username":"JYR_RC",
+	"device_name":"Redmi Note 13 Pro 5G",
+	"device":"garnet",
+	"device_group":"https:\/\/t.me\/garnet_JYRRC_builds",
+	"xda_thread":"https:\/\/xdaforums.com\/t\/closed-rom-official-black-iron-rom-v5-7-android-15-garnet.4731618\/",
+	"maintainers": [{
+		"main_maintainer":false,
+		"github_username":"JYRRC",
+		"name":"Javi"
+	}],
+	"donate_url":"http:\/\/www.paypal.me\/ralf979",
+	"website_url":"https:\/\/lol.lol\/",
+	"news_url":"https:\/\/t.me\/BlkiUpdate",
+	"forum_url":"https:\/\/xdaforums.com\/t\/closed-rom-official-black-iron-rom-v5-7-android-15-garnet.4731618\/"
+}

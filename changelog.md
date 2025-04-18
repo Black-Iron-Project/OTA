@@ -1,5 +1,18 @@
 # Blk-Iron_Features
 
+# V5.7 (17/04/2025)
+
+ - April 2025 Security patch
+ - fixed Side bar
+ - fixed Qs Widget padding
+ - fixed Lockscreen clock fonts (after changed font restart SystemUi)
+ - Qs Widget update with more app 
+ - re-added Volume tile with slider adjustament
+ - Add toggle for Volume haptic feedback
+ - Add notification and powermenu styles
+ - Re-Implement 3 button navigation layout settings
+ - ... small system improvement
+
 # V5.6 (04/04/2025)
 
  - March 2025 Security patch

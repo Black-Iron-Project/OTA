@@ -1,19 +1,19 @@
 {
 	"error":false,
-	"filename":"Blackiron-5.6_raphael-15-20250408-0936-GAPPS-OFFICIAL.zip",
-	"datetime":0934,
-	"size":2281523141,
-	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/raphael\/Blackiron-5.6_raphael-15-20250408-0936-GAPPS-OFFICIAL.zip\/download",
-	"filehash":"a6bb34fba448d62da6c5a436128ff509",
+	"filename":"Blackiron-5.7_raphael-15-20250418-1644-GAPPS-OFFICIAL.zip",
+	"datetime":1641,
+	"size":2284170444,
+	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/raphael\/Blackiron-5.7_raphael-15-20250418-1644-GAPPS-OFFICIAL.zip\/download",
+	"filehash":"47c08f0ce270a96890bc597e0ef5d7bb",
 	"version":"15",
 	"status":"Active",
-	"blkiv":"5.6_raphael",
-	"id":"967db17a6c000f1fe3b6879bcf8501b325be4e358e3df8e17183395d29407f61",
+	"blkiv":"5.7_raphael",
+	"id":"2538cdc4038f031dbc1921a726364487ca3c367047ed4003405c6ea3df880494",
 	"tg_username":"ralf979",
 	"device_name":"Xiaomi Mi 9T Pro",
 	"device":"raphael",
 	"device_group":"t.me\/ralf979street",
-	"xda_thread":"https:\/\/xdaforums.com\/t\/rom-official-black-iron-rom-v5-5-android-15-raphael.4598183\/",
+	"xda_thread":"https:\/\/xdaforums.com\/t\/rom-official-black-iron-rom-v5-6-android-15-raphael.4598183\/#post-90057773",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"ralf979",
@@ -22,5 +22,5 @@
 	"donate_url":"http:\/\/www.paypal.me\/ralf979",
 	"website_url":"https:\/\/lol.lol\/",
 	"news_url":"https:\/\/t.me\/BlkiUpdate",
-	"forum_url":"https:\/\/xdaforums.com\/t\/rom-official-black-iron-rom-v5-5-android-15-raphael.4598183\/"
+	"forum_url":"https:\/\/xdaforums.com\/t\/rom-official-black-iron-rom-v5-6-android-15-raphael.4598183\/#post-90057773"
 }

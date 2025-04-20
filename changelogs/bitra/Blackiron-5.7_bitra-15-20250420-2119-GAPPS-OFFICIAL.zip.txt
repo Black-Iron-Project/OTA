@@ -1,0 +1,31 @@
+-Compile system services using speed-profile 
+-Always preopt extracted APKs
+-Set dex2oat thread count and cpuset
+-sepolicy: Fix avc denied system_app sepolicies
+-sepolicy: Fix up libperfmgr crash on logs
+-sepolicy: Allow libperfmgr to set vendor.power prop
+
+
+ Zorok kernel 
+nl80211: add WPA3 definition for 
+SAE authentication 
+
+
+
+NOTES:
+-TWRP OR OFOX (latest) 
+- firmware ex1000 f20 or global f18 
+-clean flash reccomended 
+-Gapps build 
+
+
+
+CREDITS:
+ @Bl4ckpeter For Trees
+ 
+
+
+
+HOW DO I FLASH ?
+ Install TWRP, flash the rom, format data if you came from stock or from other rom Which firmware
+Ex1000 f20 or f.18

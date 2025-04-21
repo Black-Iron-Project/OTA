@@ -1,19 +1,19 @@
 {
 	"error":false,
-	"filename":"Blackiron-5.6_lemonade-15-20250404-1051-GAPPS-Official-fastboot.zip",
-	"datetime":1047,
-	"size":2708526319,
-	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/lemonade\/Blackiron-5.6_lemonade-15-20250404-1051-GAPPS-Official-fastboot.zip\/download",
-	"filehash":"7b78ac9e54709abbc22cfa130d220a99",
+	"filename":"Blackiron-5.7_lemonade-15-20250421-0834-GAPPS-Official-fastboot.zip",
+	"datetime":0832,
+	"size":2711735462,
+	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/lemonade\/Blackiron-5.7_lemonade-15-20250421-0834-GAPPS-Official-fastboot.zip\/download",
+	"filehash":"feb8ff89f4511b813a01473162ab3f2a",
 	"version":"15",
 	"status":"Active",
-	"blkiv":"5.6_lemonade",
-	"id":"3ec9026e14bc76bcc380ef7551a9b46470a5d37f445bcb69122bdc130a683551",
+	"blkiv":"5.7_lemonade",
+	"id":"7bb4112eee63212f1bca5b1866601ea5a7c31228fbdebed96230c94d4d11fb15",
 	"tg_username":"ralf979",
 	"device_name":"OnePlus 9",
 	"device":"lemonade",
 	"device_group":"t.me\/BLKI_lemonade_p",
-	"xda_thread":"https:\/\/xdaforums.com\/t\/rom-official-ksu-op9-oos-camera-black-iron-rom-v5-5-android-15-lemonade.4594469\/page-4#post-90016987",
+	"xda_thread":"https:\/\/xdaforums.com\/t\/rom-official-ksu-op9-oos-camera-black-iron-rom-v5-7-android-15-lemonade.4594469\/",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"ralf979",
@@ -22,5 +22,5 @@
 	"donate_url":"http:\/\/www.paypal.me\/ralf979",
 	"website_url":"https:\/\/lol.lol\/",
 	"news_url":"https:\/\/t.me\/BlkiUpdate",
-	"forum_url":"https:\/\/xdaforums.com\/t\/rom-official-ksu-op9-oos-camera-black-iron-rom-v5-5-android-15-lemonade.4594469\/page-4#post-90016987"
+	"forum_url":"https:\/\/xdaforums.com\/t\/rom-official-ksu-op9-oos-camera-black-iron-rom-v5-7-android-15-lemonade.4594469\/"
 }

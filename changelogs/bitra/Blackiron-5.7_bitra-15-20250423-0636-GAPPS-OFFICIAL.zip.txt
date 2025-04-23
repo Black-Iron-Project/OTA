@@ -1,0 +1,20 @@
+HOT FIX
+- fixed oplus camera 
+- drop  Qualcomm® aptX™ audio codec overlays that causing issue with audio in speakers
+
+
+NOTES:
+-TWRP OR OFOX (latest) 
+- firmware ex1000 f20 or global f18 
+-clean flash reccomended 
+-Gapps build 
+
+CREDITS:
+ @Bl4ckpeter For Trees
+ 
+
+
+
+HOW DO I FLASH ?
+ Install TWRP, flash the rom, format data if you came from stock or from other rom Which firmware
+Ex1000 f20 or f.18

@@ -10,7 +10,8 @@ fi
 STATUS="$(jq -r '.status' "${CHANGED_FILE}")"
 DEVICE="$(jq -r '.device' "${CHANGED_FILE}")"
 PHOTO="banner.jpeg"
-BUILD_DATE="$(date +'%dth-%b-%Y' -d $(jq '.datetime' ${CHANGED_FILE}))"
+BUILD_DATE="$(date +'%Y-%m-%d' -d $(jq '.datetime' ${CHANGED_FILE}))"
+BUILD_TYPE="${jq -r '.build_type' "${CHANGED_FILE}"}"
 CHANGELOG="${DEVICE_CHANGELOG_URL}${DEVICE}/$(jq -r '.filename' "${CHANGED_FILE}")"
 SFLINK="$(jq -r '.url' "${CHANGED_FILE}")"
 DEVICE_NAME="$(jq -r '.device_name' "${CHANGED_FILE}")"
@@ -27,6 +28,7 @@ New OFFICIAL Update for ${DEVICE_NAME} is Out
 
 Build Version : ${BLKIV}
 Build Date : ${BUILD_DATE}
+Build Type : ${BUILD_TYPE}
 Codename : ${DEVICE}
 By : @${USERNAME}
 

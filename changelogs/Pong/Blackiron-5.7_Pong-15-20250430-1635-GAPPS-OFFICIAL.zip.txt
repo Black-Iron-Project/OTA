@@ -1,0 +1,5 @@
+Changelog - 15//
+- Initial release for official
+- Changed KernelSU Next to KernelSU 1.0.5 for better SuSFS 1.5.7 support (less bugs etc)
+- Tweaked WiFi
+- Build setup -> superlite Gapps (only playstore installed)

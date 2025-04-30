@@ -14,7 +14,7 @@ SIZE=$(wc -c out/target/product/$DEVICE/Blackiron*.zip | awk '{print $1}')
 URL="https://sourceforge.net/projects/black-iron-project/files/$DEVICE/$FILENAME/download"
 VERSION=$(grep "ro.build.version.release=" out/target/product/$DEVICE/system/build.prop | cut -d "=" -f 2)
 STATUS="Active"
-BLKIV=$(grep "ro.lineage.version" out/target/product/$DEVICE/system/build.prop | cut -d '-' -f 2 )
+BLKIV=$(grep "ro.lineage.version" out/target/product/$DEVICE/system/build.prop | cut -d '-' -f 2 | cut -d "_" -f 1 )
 DONATE_URL="http://www.paypal.me/ralf979"
 WEBSITE_URL="https://lol.lol/"
 NEWS_URL="https://t.me/BlkiUpdate"

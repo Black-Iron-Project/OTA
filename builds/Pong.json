@@ -1,26 +1,27 @@
 {
 	"error":false,
-	"filename":"Blackiron-4.8_Pong-14-20240910-0539-Official.zip",
-	"datetime":20240910,
-	"size":2228627807,
-	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/Pong\/Blackiron-4.8_Pong-14-20240910-0539-Official.zip\/download",
-	"filehash":"bcfc1c43517b7cb5bac221083ae2dd82",
-	"version":"14",
+	"filename":"Blackiron-5.7_Pong-15-20250430-1635-GAPPS-OFFICIAL.zip",
+	"datetime":20250430,
+	"size":2107121152,
+	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/Pong\/Blackiron-5.7_Pong-15-20250430-1635-GAPPS-OFFICIAL.zip\/download",
+	"filehash":"7f14002885b51bd8993c5681e13ef8e1",
+	"version":"15",
 	"status":"Active",
-	"blkiv":"4.8",
-	"id":"44f2c0918f80e7ceb18676a693e398ea7aae0adb2af14573112e36f0176de889",
-	"tg_username":"AgBKartikey",
-	"device_name":"Nothing Phone 2",
+	"blkiv":"5.7",
+	"id":"bbe07a87a1fa7dc3b90bead3faad793e3e26c7a69748719a8431ccc0d9d8d8dd",
+	"tg_username":"mrdeath404",
+	"device_name":"Nothing Phone (2)",
 	"device":"Pong",
-	"device_group":"@NothingPhone2",
-	"xda_thread":"https:\/\/xdaforums.com\/t\/rom-official-black-iron-rom-v4-7-android-14-0-pong.4689486\/#post-89686843",
+	"device_group":"None",
+	"device_type":"GAPPS",
+	"xda_thread":"https:\/\/xdaforums.com\/t\/rom-black-iron-project-for-nothing-phone-2-pong.4733651\/",
 	"maintainers": [{
 		"main_maintainer":false,
-		"github_username":"AgBKartikey",
-		"name":"AgBKartikey"
+		"github_username":"MrDeath404",
+		"name":"MrDeath"
 	}],
 	"donate_url":"http:\/\/www.paypal.me\/ralf979",
 	"website_url":"https:\/\/lol.lol\/",
 	"news_url":"https:\/\/t.me\/BlkiUpdate",
-	"forum_url":"https:\/\/xdaforums.com\/t\/rom-official-black-iron-rom-v4-7-android-14-0-pong.4689486\/#post-89686843"
+	"forum_url":"https:\/\/xdaforums.com\/t\/rom-black-iron-project-for-nothing-phone-2-pong.4733651\/"
 }

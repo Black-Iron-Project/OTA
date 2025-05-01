@@ -19,7 +19,7 @@ DONATE_URL="http://www.paypal.me/ralf979"
 WEBSITE_URL="https://lol.lol/"
 NEWS_URL="https://t.me/BlkiUpdate"
 DEV_GRP=$DEVGRP
-if echo $FILENAME | grep -q "GAPPS"l then
+if echo $FILENAME | grep -q "GAPPS"; then
     BUILD_TYPE="GAPPS"
 else
     BUILD_TYPE="Vanilla"

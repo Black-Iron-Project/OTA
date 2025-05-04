@@ -7,6 +7,12 @@ import sys
 import subprocess
 from os import path
 import time
+import argparse
+
+# Argument parser
+parser = argparse.ArgumentParser(description='OTA Script for Black Iron Project')
+parser.add_argument('--skip-upload', action='store_true', help='Skip uploading to SourceForge')
+args = parser.parse_args()
 
 # Banner
 print ("")
@@ -44,12 +50,15 @@ ghun=input("\nEnter Your Github username : ")
 name=input("\nEnter Your Name : ")
 devgrp=input("\nEnter Your Device Group Username :- eg @BlkiUpdate : ")
 
-print ("These Inputs are For SourceForge Uploading, you will be asked password just after your sourceforge username")
-sf=input("Enter Your SourceForge Username ")
+# SF Uploading
+if not args.skip_upload:
+  print ("These Inputs are For SourceForge Uploading, you will be asked password just after your sourceforge username")
+  sf=input("Enter Your SourceForge Username ")
 
-# Sf Uploading 
-os.system("scp out/target/product/%s/Blackiron*.zip %s@frs.sourceforge.net://home/frs/project/black-iron-project/%s/"%(codename,sf,codename))
-
+  os.system("scp out/target/product/%s/Blackiron*.zip %s@frs.sourceforge.net://home/frs/project/black-iron-project/%s/"%(codename,sf,codename))
+else:
+  print ("Skipping SourceForge Uploading")
+  
 # OTA/TG
 os.system("bash OTA/support/ota.sh '%s' '%s' '%s' '%s' '%s' '%s' '%s'"%(codename,tgname,device,xda,ghun,name,devgrp))
 

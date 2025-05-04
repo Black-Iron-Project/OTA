@@ -1,0 +1,22 @@
+Changelog - 04/05/2025
+
+- Everything is fixed now
+
+ FLASH INSTRUCTIONS:
+
+🚦 Before flashing any rom, make a backup of your data! 🚥
+
+Pre-requisites :
+- Brain and ability to READ !
+- Gapps included so no need to flash
+- Use your region's latest HyperOS 2 firmware
+
+Clean Flash Guide:
+
+- Ofox recovery , Install firmware global , Restart ofox , Install build , FORMAT DATA , Start system.
+
+Dirty Flash Guide:
+
+- Ofox recovery , Restart ofox , Install build , WIPE CACHE AND DALVIK CACHE , Start system.
+
+enjoy!!

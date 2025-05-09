@@ -1,5 +1,19 @@
 # Blk-Iron_Features
 
+# V5.8 (09/05/2025)
+
+ - May 2025 Security patch
+ - Launcher: Allow locking tasks to recents
+ - Launcher: Added Working Wallpaper & Style settings 
+ - Added restart SystemUi when change Clock Fonts on lockscreen
+ - Added Comss DNS provider
+ - Added Ongoing ProgressBar Chip
+ - Added background process killer
+ - Added toggle for Smart 5G
+ - Added toggle to force LTE_CA
+ - Added Double tap to trigger doze
+ - ... small system improvement
+
 # V5.7 (17/04/2025)
 
  - April 2025 Security patch

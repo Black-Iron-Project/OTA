@@ -1,0 +1,19 @@
+-Add feature flag for IPSEC_TUNNEL_MIGRATION
+-Delete dhcpcd init entries
+-Remove wigig components
+-audio: Remove direct flag for VOIP RX
+
+NOTES: 
+
+-TWRP OR OFOX (latest)
+-firmware ex1000 f20 or global f18 
+-clean flash reccomended
+-Gapps build 
+
+CREDITS:
+ @Bl4ckpeter For Trees
+
+HOW DO I FLASH ? 
+Install TWRP, flash the rom, format data if you came from stock or from other rom 
+Which  firmware?
+Ex1000 f20 or f.18

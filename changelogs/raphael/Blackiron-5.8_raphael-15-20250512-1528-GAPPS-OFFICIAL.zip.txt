@@ -1,0 +1,46 @@
+Changelog - 12/05/2025
+
+ - Merged May Security Patches
+ - Updated Bool-X Kernel to the latest version
+ - Migrate to select() for ubwc flag
+ - sepolicy: Allow vendor_hal_usb_qti to acess vendor_sysfs_usb_controller
+ - Remove deprecated config_mobile_tcp_buffers/networkAttributes
+ - overlay: Use the new auto network selection UI
+ - Enable concurrent restricted connectivity
+
+   #Flash instructions
+
+🚦 Before flashing any rom, make a backup of your persist! and your data !!! 🚥
+
+• Rom uses Dynamic partitions
+• Based on OSS vendor , Bool-X Kernel.
+• ROM comes as FBEv2 Encrypted. 
+• No support for DFE users. 
+• Recommended Recovery - https://t.me/redmik20proupdates/7180
+• Flash A11 Firmware of your region
+• Don't flash Gapps, they are inbuild
+
+First time installation guide (A15):
+A15 Dynamic Installation Guide 
+
+Preparing for the flash:
+
+- Download the recommended recovery --> HERE (https://t.me/redmik20proupdates/7180) 
+- Download the legacy_to_retrofit_dynamic —> HERE (https://t.me/ralf979street/46293)
+- Download A11 Firmware
+
+------------------------------
+- Backup your internal storage data
+- Boot to recovery
+- Flash Unofficial Ofox Recovery 12.1
+- Format Data (It's must.) - YES
+- Reboot to recovery
+- Connect computer to your phone and copy all above files to phones internal storage. (A11 Firmware, Retrofit, ROM.)
+- Flash A11 Firmware
+- Flash legacy_to_retrofit_dynamic_by_@raphael_alpha
+- Flash ROM
+- DON'T REBOOT -- Go to> Manage partition> Data> Change FS> F2FS (It's must. Otherwise your device won't boot)
+------------------------------
+
+If you face issues with accessing storage in recovery, go to mount and disable and re-enable data partition
+For links and more detailed help, join the support group ( https://t.me/ralf979street )

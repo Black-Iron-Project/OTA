@@ -1,0 +1,7 @@
+Changelog - 15//
+
+- Updated source to 5.8
+- Updated Ghostox's trees
+- Changed Google things support like Android Auto
+- Other chaneges same as in BlackIron changelog :)
+- Removed susfs (kinda no need for now, but if you find it usefull tell me)

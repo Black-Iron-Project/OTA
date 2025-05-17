@@ -1,19 +1,19 @@
 {
 	"error":false,
-	"filename":"Blackiron-5.7_lemonadep-15-20250429-1749-GAPPS-Official-fastboot.zip",
-	"datetime":1743,
-	"size":2701018454,
-	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/lemonadep\/Blackiron-5.7_lemonadep-15-20250429-1749-GAPPS-Official-fastboot.zip\/download",
-	"filehash":"c78ea8ad7016c0a71beddb86444fe4f8",
+	"filename":"Blackiron-5.8_lemonadep-15-20250517-1145-GAPPS-Official-fastboot.zip",
+	"datetime":1139,
+	"size":2706996507,
+	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/lemonadep\/Blackiron-5.8_lemonadep-15-20250517-1145-GAPPS-Official-fastboot.zip\/download",
+	"filehash":"48a53640a3ea0ae1cd40eb53a4528b21",
 	"version":"15",
 	"status":"Active",
-	"blkiv":"5.7_lemonadep",
-	"id":"a9440c686280e43228b2b073ce62b54f5ffecc2d76d72fb8a876fc7fb028d04f",
+	"blkiv":"5.8_lemonadep",
+	"id":"81aa439143376dd28f15f5bc70883dbfaea0e98a1c49e72d0bb52d7b564514c3",
 	"tg_username":"delano_tg",
 	"device_name":"OnePlus 9 Pro",
 	"device":"lemonadep",
 	"device_group":"@BLKI_lemonade_p",
-	"xda_thread":"https:\/\/xdaforums.com\/t\/rom-official-op9pro-ksu-oos-cam-black-iron-project-v5-7-android-15-lemonadep.4595245\/page-4",
+	"xda_thread":"https:\/\/xdaforums.com\/t\/rom-official-op9pro-ksu-oos-cam-black-iron-project-v5-8-android-15-lemonadep.4595245\/",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"delano-git",
@@ -22,5 +22,5 @@
 	"donate_url":"http:\/\/www.paypal.me\/ralf979",
 	"website_url":"https:\/\/lol.lol\/",
 	"news_url":"https:\/\/t.me\/BlkiUpdate",
-	"forum_url":"https:\/\/xdaforums.com\/t\/rom-official-op9pro-ksu-oos-cam-black-iron-project-v5-7-android-15-lemonadep.4595245\/page-4"
+	"forum_url":"https:\/\/xdaforums.com\/t\/rom-official-op9pro-ksu-oos-cam-black-iron-project-v5-8-android-15-lemonadep.4595245\/"
 }

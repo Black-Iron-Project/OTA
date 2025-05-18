@@ -1,0 +1,28 @@
+Changelog - 18/05/2025
+
+- Drop audio_effects.conf
+- Disable speaker protection
+- Add missing denial audio
+- Ok google fixed (screen off and on)
+- Fixed Micro lags on low battery
+- Revert multiple configs audio
+- Included Dolby music,vision HDR,miuicamera and bcr support
+
+ FLASH INSTRUCTIONS:
+
+🚦 Before flashing any rom, make a backup of your data! 🚥
+
+Pre-requisites :
+- Brain and ability to READ !
+- Gapps included so no need to flash
+- Use your region's latest HyperOS 2 firmware
+
+Clean Flash Guide:
+
+- Ofox recovery , Install firmware global , Restart ofox , Install build , FORMAT DATA , Start system.
+
+Dirty Flash Guide:
+
+- Ofox recovery , Restart ofox , Install build , WIPE CACHE AND DALVIK CACHE , Start system.
+
+enjoy!!

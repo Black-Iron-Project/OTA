@@ -1,0 +1,33 @@
+-Introduce GameBar
+-Enable ported CLO memory optimization
+-prop: Fix screen record lag
+-properties: Add touch improvements props
+-overlay: Mock LinearmotorVibratorService
+-Drop zygote critical window
+-Kang auto brightness configs from Oneplus 8T
+-Other miscs chsnges
+kernel Z0R0K
+-drivers/pci: Silent spam log
+-asus-laptop: Fix an uninitialized variable
+-msm: ipa3: Fix non-atomic read on atomic_t variable
+-msm: ipa3: Fix NAPI pool scheduling in process context
+-msm: msm_bus: Never compile debugfs-related code
+-cpufreq: qcom-hw: Don't throttle when freq_limit exceeds request
+-drivers: power: Silence some logs
+-kernel/power: faster deepsleep
+-drivers: adreno: fixup mutex usage
+-techpack: audio: Optimize audio codec
+-msm: vidc: Reduce HEIC min input buffer count to 4
+-Other miscs improvements
+
+
+NOTES:
+-TWRP OR OFOX (latest)
+- firmware ex1000 f20 or global f18
+-clean flash reccomended
+-Gapps build
+CREDITS:
+ @Bl4ckpeter For Trees
+HOW DO I FLASH ?
+ Install TWRP, flash the rom, format data if you came from stock or from>
+Ex1000 f20 or f.18

@@ -1,0 +1,33 @@
+Changelog - 01/06/2025
+
+ - May 2025 Security Patch
+ - Switched to @ByteWave1014 device tree
+ - 
+ 
+ NOTES & Bug
+ - Use OS2.0.102.0.UNKMIXM firmware.
+ - Auto-brightness broken.
+ - For This version is MANDATORY clean flash
+ 
+ FLASH INSTRUCTIONS:
+
+🚦 Before flashing any rom, make a backup of your data! 🚥
+
+Pre-requisites :
+- Brain and ability to READ !
+- Gapps included so no need to flash/sideload GApps
+- Use your region's latest HyperOS 2 firmware
+- UPDATE TO LATEST FASTBOOT DRIVER
+
+Clean Flash Guide:
+
+- Open Terminal and Reboot to Bootloader (orange Fastboot)  —> adb reboot bootloader (or press Power + Vol -) 
+- Format Data —>  fastboot -w 
+- Flash Rom —> fastboot update "romfile.zip" (replace romfile.zip to name of dowloaded rom)
+
+Dirty Flash Guide:
+
+- Open Terminal and Reboot to Bootloader (orange Fastboot)  —> adb reboot bootloader (or press Power + Vol -) 
+- Flash Rom —> fastboot update "romfile.zip" (replace romfile.zip to name of dowloaded rom)
+
+enjoy!!

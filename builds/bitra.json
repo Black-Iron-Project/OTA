@@ -1,15 +1,15 @@
 {
 	"error":false,
-	"filename":"Blackiron-5.8_bitra-15-20250527-1115-GAPPS-OFFICIAL.zip",
-	"datetime":20250527,
-	"size":2738606026,
-	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/bitra\/Blackiron-5.8_bitra-15-20250527-1115-GAPPS-OFFICIAL.zip\/download",
-	"filehash":"fe315e0c9114cff64264ef3c11d42a7d",
+	"filename":"Blackiron-5.8_bitra-15-20250603-0706-GAPPS-OFFICIAL.zip",
+	"datetime":20250603,
+	"size":2738676576,
+	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/bitra\/Blackiron-5.8_bitra-15-20250603-0706-GAPPS-OFFICIAL.zip\/download",
+	"filehash":"3a9c37b3eda01157306671412edbfc72",
 	"version":"15",
 	"status":"Active",
 	"blkiv":"5.8",
-	"id":"7df30b272c17405850f1d7fcd2f1a914752f1a9e654bb27518d1bd35b17e69db",
-	"tg_username":"badr98t",
+	"id":"6cf53371f6cdd4399d8670400bb48a9ddf52f6d1ed8da9579ea53c1ea2f6d9c7",
+	"tg_username":"Badr98t",
 	"device_name":"Realme GT Neo2",
 	"device":"bitra",
 	"device_group":"@zoroprojects",
@@ -18,7 +18,7 @@
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"XXBADRGXX",
-		"name":"Badr"
+		"name":"BADR"
 	}],
 	"donate_url":"http:\/\/www.paypal.me\/ralf979",
 	"website_url":"https:\/\/lol.lol\/",

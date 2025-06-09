@@ -1,20 +1,20 @@
 {
 	"error":false,
-	"filename":"Blackiron-5.8_Pong-15-20250517-1239-GAPPS-OFFICIAL.zip",
-	"datetime":20250517,
-	"size":2116952133,
-	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/Pong\/Blackiron-5.8_Pong-15-20250517-1239-GAPPS-OFFICIAL.zip\/download",
-	"filehash":"e1d7b0ed29641a58b99b0235888be401",
+	"filename":"Blackiron-5.9_Pong-15-20250609-1808-GAPPS-OFFICIAL.zip",
+	"datetime":20250609,
+	"size":2338977765,
+	"url":"https:\/\/sourceforge.net\/projects\/black-iron-project\/files\/Pong\/Blackiron-5.9_Pong-15-20250609-1808-GAPPS-OFFICIAL.zip\/download",
+	"filehash":"cef645deedaa7dbc2390d272337bac2b",
 	"version":"15",
 	"status":"Active",
-	"blkiv":"5.8",
-	"id":"b829c61dffd61b2a82c561799ad338f3f704eb51684d5c5dc1cd80c34f1116a3",
+	"blkiv":"5.9",
+	"id":"0bfb40b2d7eed9638ce9bcdae51428ac5b7206b85759dc9823cdf1785da77b14",
 	"tg_username":"mrdeath404",
 	"device_name":"Nothing Phone (2)",
 	"device":"Pong",
 	"device_group":"@BlackIronPongSupport",
 	"build_type":"GAPPS",
-	"xda_thread":"https:\/\/xdaforums.com\/t\/rom-black-iron-project-for-nothing-phone-2-pong.4733651\/",
+	"xda_thread":"https:\/\/xdaforums.com\/t\/rom-black-iron-project-for-nothing-phone-2-pong.4733651",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"MrDeath404",
@@ -23,5 +23,5 @@
 	"donate_url":"http:\/\/www.paypal.me\/ralf979",
 	"website_url":"https:\/\/lol.lol\/",
 	"news_url":"https:\/\/t.me\/BlkiUpdate",
-	"forum_url":"https:\/\/xdaforums.com\/t\/rom-black-iron-project-for-nothing-phone-2-pong.4733651\/"
+	"forum_url":"https:\/\/xdaforums.com\/t\/rom-black-iron-project-for-nothing-phone-2-pong.4733651"
 }

@@ -1,0 +1,7 @@
+Changelog - 15//
+
+- firmware is now included no need for flash !
+- kernel configs were tweak for battery life and stability
+- kernel is prepatched with KernelSU Next and SuSfs for efficient compatibility with banking apps (tested on many like revolut, etc.)
+- make clean flash/install (format data after installation)
+- also build is compatibile with bootloader locking for more info check blki Pong support group

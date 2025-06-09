@@ -1,5 +1,14 @@
 # Blk-Iron_Features
 
+# V5.9 (09/06/2025)
+
+ - June 2025 Security patch
+ - fixup! Introduce high touch polling rate feature control
+ - fixup! Add high touch sensitivity and hovering to InputService
+ - fixup! PowerManager: Add proximity check on wake
+ - fixup! Keyguard: Add option to scramble pin layout when unlocking
+
+
 # V5.8 (09/05/2025)
 
  - May 2025 Security patch

@@ -1,5 +1,5 @@
-DEVICE_JSON_URL="https://raw.githubusercontent.com/Black-Iron-Project/OTA/v15"
-DEVICE_CHANGELOG_URL="https://raw.githubusercontent.com/Black-Iron-Project/OTA/v15/changelogs/"
+DEVICE_JSON_URL="https://raw.githubusercontent.com/Black-Iron-Project/OTA/z16"
+DEVICE_CHANGELOG_URL="https://raw.githubusercontent.com/Black-Iron-Project/OTA/z16/changelogs/"
 CHANGED_FILE="$(git diff --name-only HEAD~1 | head -1)"
 
 if ! [[ "${CHANGED_FILE}" =~ "json" ]]; then
@@ -19,7 +19,7 @@ BLKIV="$(jq -r '.blkiv' "${CHANGED_FILE}")"
 XDA="$(jq -r '.xda_thread' "${CHANGED_FILE}")"
 USERNAME="$(jq -r '.tg_username' "${CHANGED_FILE}")"
 DEV_GRP="$(jq -r '.device_group' "${CHANGED_FILE}")"
-ROM="https://github.com/Black-Iron-Project/OTA/blob/v15/changelog.md"
+ROM="https://github.com/Black-Iron-Project/OTA/blob/z16/changelog.md"
 if [[ $STATUS = "Active" ]]
 then
 

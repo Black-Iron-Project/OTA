@@ -7,7 +7,7 @@ Changelog V6.0 - 23/08/2025
 🚦 Before flashing any rom, make a backup of your persist! and your data !!! 🚥
 
 • Rom uses Dynamic partitions
-• Based on OSS vendor , Bool-X Kernel.
+• Based on OSS vendor , Soviet Kernel.
 • ROM comes as FBEv2 Encrypted. 
 • No support for DFE users. 
 • Recommended Recovery - https://t.me/redmik20proupdates/7180

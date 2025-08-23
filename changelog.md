@@ -1,5 +1,9 @@
 # Blk-Iron_Features
 
+# V6.0 (23/08/2025)
+
+ - Initial A16 Release
+
 # V5.9 (09/06/2025)
 
  - June 2025 Security patch

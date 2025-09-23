@@ -1,5 +1,22 @@
 # Blk-Iron_Features
 
+# V6.1 (23/09/2025)
+
+ - September Scurity Patch
+ - Update Spoofing
+ - Update Weather Settings
+ - Added AOD Styles
+ - Added Lockscreen Widget
+ - Added Lockscreen Info Widget
+ - Added LS Clock Face
+ - Added Now Bar Feature
+ - Added QS Widget
+ - Added QS Tile customization (UI Style, Layout, Panel Style, etc.)
+ - Added Better QS
+ - Added Ongoing action chip feature
+ - Fixed Blackiron Version
+ - ... Other small improvement
+
 # V6.0 (23/08/2025)
 
  - Initial A16 Release
